@@ -10,3 +10,4 @@ Icon=utilities-terminal
 Exec=kitty --directory "%u"
 Name=Open Kitty Here
 Name[nl]=Kitty hier openen
+Name[it]=Apri Kitty qui
